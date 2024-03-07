@@ -123,9 +123,6 @@ Mapping used for loan_status (target):
 
 <p>Undersampling is not good practice but, I wanted to see how the models were performing in this scenario. The scores dropped significantly and this is not a good approach to proceed with.</p>
 
-<img src="figs/umap_kmeans_scores.png">
-
-<img src="figs/umap_kmeans_casenum.png">
 
 #### Oversampling - SMOTE
 
