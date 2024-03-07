@@ -6,7 +6,7 @@
 
 ## About Dataset
 
-<p>[The Lending club loan data](https://www.kaggle.com/datasets/wordsforthewise/lending-club) is taken from Kaggle and it has all the loan application information from 2007 to 2018. Kaggle has the list of both accepted and rejected applications. For this project, we will be only working with the accepted loan applications as we are trying to predict  defaulters.</p>
+<p> [The Lending club loan data](https://www.kaggle.com/datasets/wordsforthewise/lending-club) is taken from Kaggle and it has all the loan application information from 2007 to 2018. Kaggle has the list of both accepted and rejected applications. For this project, we will be only working with the accepted loan applications as we are trying to predict  defaulters.</p>
 
 <p>The data has over 2 million records and 151 columns. There is a data dictionary provided in the docs folder of this repo for this data. Most of these columns will be filtered out in the preprocessing steps.</p>
 
