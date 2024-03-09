@@ -131,13 +131,6 @@ Using SMOTE to generate synthetic minority data, the classification scores did n
 <img src="figs/over_XGB.png">
 
 
-## Dimensionality Reduction ?
-
-<p>Finally, on the imbalanced, I used XGBoost model's feature importance scores to identify 20 prominent features and tried to perform dimensionality reduction on these 20 features to get only 2 resulting components using UMAP. The following is the scatter plot of the same against target (loan_status).</p>
-
-<img src="figs/.png">
-
-<p>When I used XGBoost on this data with hyperparameter tuning with GridSearchCV, I achieved a final f1-scores as ``. </p>
 
 ## Conclusion
 
