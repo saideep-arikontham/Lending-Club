@@ -134,7 +134,7 @@ Using SMOTE to generate synthetic minority data, the classification scores did n
 
 ## Conclusion
 
-The data imbalance has made it difficult to improve the classification score for this project. However, this model might help in identifying defaults to an extent. I will revisit this project to implement more advanced Machine learning techniques to better identify the Loan defaulters. I would like to change the preprocessing steps (like grouping the numerical columns into small categories) and also implement Neural networks to see whether I can improve the classification scores.
+Since the data is not balanced, looking at f1-score for model performance seemed appropriate. The XGBoost algorithm performed with 87% f1 score when used with imbalanced data and generated synthetic data. The data imbalance has made it difficult to improve the classification score for this project. However, this model might help in identifying defaults to an extent. I will revisit this project to implement more advanced Machine learning techniques to better identify the Loan defaulters. I would like to change the preprocessing steps (like grouping the numerical columns into small categories) and also implement Neural networks to see whether I can improve the classification scores.
 
 
 
